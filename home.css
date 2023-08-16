@@ -1,0 +1,56 @@
+/* Home page specific styles */
+header {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #007BFF;
+    padding: 10px 0;
+}
+
+nav li {
+    margin: 0 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 40px;
+}
+
+section h2 {
+    color: #007BFF;
+    margin-bottom: 10px;
+}
+
+section img {
+    max-width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer a {
+    color: white;
+    margin: 0 10px;
+}
